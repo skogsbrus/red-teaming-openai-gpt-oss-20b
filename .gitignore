@@ -1,0 +1,4 @@
+.direnv
+.envrc
+.env
+__pycache__
